@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tutorial 04</string>
+
+    <string name="header_lohin">Login</string>
+    <string name="header_Welcome">txtWelcome</string>
+    <string-array name="counteries">
+        <item>India</item>
+        <item>Nepal</item>
+        <item>Urop</item>
+        <item>Ukrain</item>
+        <item>Germoney</item>
+        <item>Shreelanka</item>
+    </string-array>
+</resources>
